@@ -3,7 +3,7 @@
 **I'm Roger**
 
 - 🔭 I’m currently working in China
-- 💬 Ask me about Python
+- 💬 Ask me about Python, Photography
 - 😄 introducation: Talk is cheap,show me the code.
 - ⚡ Hobby: 📷、🏃、🎬、🎵
 
