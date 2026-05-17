@@ -30,7 +30,7 @@
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,ts,react,nextjs,docker,kubernetes,aws,git,linux,postgres,redis,nginx&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,swift,bash,flask,django,nestjs,vuejs,docker,postgres,mysql,git,linux&theme=dark&perline=7)](https://skillicons.dev)
 
 <br/>
 
